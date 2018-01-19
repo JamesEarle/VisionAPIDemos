@@ -1,0 +1,10 @@
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\bin\Debug\netcoreapp2.0\FacialRecognition.deps.json
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\bin\Debug\netcoreapp2.0\FacialRecognition.runtimeconfig.json
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\bin\Debug\netcoreapp2.0\FacialRecognition.runtimeconfig.dev.json
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\bin\Debug\netcoreapp2.0\FacialRecognition.dll
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\bin\Debug\netcoreapp2.0\FacialRecognition.pdb
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\obj\Debug\netcoreapp2.0\FacialRecognition.csproj.CoreCompileInputs.cache
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\obj\Debug\netcoreapp2.0\FacialRecognition.AssemblyInfoInputs.cache
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\obj\Debug\netcoreapp2.0\FacialRecognition.AssemblyInfo.cs
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\obj\Debug\netcoreapp2.0\FacialRecognition.dll
+C:\Users\jaearle\Documents\Code\VisionAPIDemos\FacialRecognition\obj\Debug\netcoreapp2.0\FacialRecognition.pdb
