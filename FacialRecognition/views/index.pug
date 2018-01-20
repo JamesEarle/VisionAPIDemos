@@ -3,3 +3,23 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
+  video(autplay="true")#video
+  form(method="post", action="snap")
+    button(type="submit") Snap!
+  if data
+    p= data
+  script.
+    var video = document.getElementById('video');
+    navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia || navigator.oGetUserMedia;
+
+    if (navigator.getUserMedia) {       
+      navigator.getUserMedia({video: true}, handleVideo, videoError);
+    }
+
+    function handleVideo (stream) {
+      video.src = window.URL.createObjectURL(stream);
+    }
+
+    function videoError (e) {
+      throw e;
+    }
